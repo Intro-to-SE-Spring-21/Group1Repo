@@ -11,7 +11,7 @@
 1) Python, JavaScript
 2) Flask or Django
 
-#Project Description
+# Project Description
 
 This project is all about creating a application where users could upload the images of their pets and like, comment, and share other's post. 
 
