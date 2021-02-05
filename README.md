@@ -6,6 +6,7 @@ Skills:  Python, C++, R, Django, Flask
 
 2)Andrew Wells(aw2203)
 andrewwe98@gmail.com
+Skills: C++, html/CSS/Javascript, Java, C
 
 3)Patrick Asher(pma86)  
 pasher2016@hotmail.com 
