@@ -1,5 +1,5 @@
-# Group1 Members(msstate id), Github address
-1)Nishan Karki(nk577),  nishankarki191@gmail.com
+# Group1 Members(msstate id), Github address, Skills
+1)Nishan Karki(nk577),  nishankarki191@gmail.com,    Python, C++, R, Matlab, Django, Flask
 
 2)Andrew Wells(aw2203),  andrewwe98@gmail.com
 
