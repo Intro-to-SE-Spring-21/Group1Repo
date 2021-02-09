@@ -12,6 +12,7 @@ pasher2016@hotmail.com
 
 4)Matthew Gentry(mag800) 
 mag800@msstate.edu
+Skills: Python, C++, C
 
 # Programming Language and Framework
 1) Python, JavaScript
