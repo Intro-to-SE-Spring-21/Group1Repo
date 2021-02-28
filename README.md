@@ -5,7 +5,6 @@ Skills:  Python, C++, R, Django, Flask
 
 
 2)Andrew Wells(aw2203)
-3)
 andrewwe98@gmail.com
 Skills: C++, html/CSS/Javascript, Java, C
 
@@ -18,8 +17,8 @@ mag800@msstate.edu
 Skills: Python, C++, C
 
 # Programming Language and Framework
-1) Python, JavaScript
-2) Flask/Django
+1) Python, html, CSS, Bootstrap
+2) Flask
 
 # Project Description
 
