@@ -1,11 +1,11 @@
 # Group1 Members
 1)Nishan Karki(nk577)(Leader of Group1)
-
 nishankarki191@gmail.com    
 Skills:  Python, C++, R, Django, Flask
 
 
 2)Andrew Wells(aw2203)
+3)
 andrewwe98@gmail.com
 Skills: C++, html/CSS/Javascript, Java, C
 
