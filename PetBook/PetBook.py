@@ -1,3 +1,4 @@
+#Uisng most of the resources from flask, Bootstrap and SQLite directly.
 import os
 from PetBookforms import  AddPetsForm , DeletePetsForm
 from flask import Flask, render_template, url_for, redirect
