@@ -24,3 +24,10 @@ def comment():
 
     if __name__ == '__main__':
         app.run()
+
+
+@app.route('/like', methods = ['GET', 'POST'])
+def share():
+
+@app.route('/share', methods = ['GET', 'POST"])
+def share():
