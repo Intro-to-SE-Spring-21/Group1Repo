@@ -27,7 +27,7 @@ def comment():
 
 
 @app.route('/like', methods = ['GET', 'POST'])
-def share():
+def like():
 
 @app.route('/share', methods = ['GET', 'POST"])
 def share():
