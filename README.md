@@ -22,4 +22,4 @@ Skills: Python, C++, C
 
 # Project Description
 
-This project is all about creating a application where users could upload the images of their pets and like, comment, and share other's post. It is called a PetBook. The main purpose of doing this project is to help people with pets for communication.
+This project is all about creating a application where users could post about pets . It is called a PetBook. The main purpose of doing this project is to help people see other people's post about pets. Users are strongly suggested to write about the topic related to pets only.
