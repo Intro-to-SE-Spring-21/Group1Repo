@@ -14,4 +14,4 @@ install:
   - pip install -q Django=$DJANGO
 
 script:
-  pytest
+  python app.py
