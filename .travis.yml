@@ -12,4 +12,5 @@ env:
 install:
   - pip install -r PetBook/requirements.txt
   - pip install -q Django=$DJANGO
-  - python setup.py -q install
+  
+script: pytest
